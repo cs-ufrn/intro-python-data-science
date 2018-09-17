@@ -1,19 +1,25 @@
-XXII BRAZILIAN CONFERENCE ON AUTOMATION (CBA)
+# Introduction to Data Science with Python
 
-http://ufpb.br/cba2018
+Introduce basic notions of pandas for Data Science, including data manipulation
+and visualization.
 
-Authors:
-- Vinicius Campos https://github.com/Vinihcampos
-- Artur Curinga https://github.com/arturcuringa
-- Vitor Greati https://github.com/greati
-- Aguinaldo Bezerra https://github.com/aguinaldoabbj
-- Diego Silva diego@ect.ufrn.br 
-- Ivanovitch Silva ivan@imd.ufrn.br
+## Lessons
+
+- Pandas crash course
+- Data visualization with pandas
+- Advanced visualization
+
+## Authors
+
+[![Vinicius Campos](https://avatars.githubusercontent.com/vinihcampos?s=100)<br /><sub>Vinicius Campos</sub>](https://github.com/vinihcampos) | [![Vitor Greati](https://avatars.githubusercontent.com/greati?s=100)<br /><sub>Vitor Greati</sub>](https://github.com/greati) | [![Artur Curinga](https://avatars.githubusercontent.com/arturcuringa?s=100)<br /><sub>Artur Curinga</sub>](https://github.com/arturcuringa) | [![Ivanovitch Silva](https://avatars.githubusercontent.com/ivanovitchm?s=100)<br /><sub>Ivanovitch Silva</sub>](https://github.com/ivanovitchm) | [![Diego Silva](https://avatars.githubusercontent.com/ivanovitchm?s=100)<br /><sub>Diego Silva</sub>](https://github.com/ivanovitchm)| [![Aguinaldo Bezerra](https://avatars.githubusercontent.com/aguinaldoabbj?s=100)<br /><sub>Aguinaldo Bezerra</sub>](https://github.com/aguinaldoabbj)
+------------ | ------------- | ------------ | ------------ | ------------ | ------------
+
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE) file for details.
+
 
 Mini-course: Big Data Foundations for Industry 4.0
 
-- Motivation
-- Development platform
-- Pandas crash course
-- Data visualization 
-- Advanced visualization
+
