@@ -11,7 +11,7 @@ and visualization.
 
 ## Authors
 
-[![Vinicius Campos](https://avatars.githubusercontent.com/vinihcampos?s=100)<br /><sub>Vinicius Campos</sub>](https://github.com/vinihcampos) | [![Vitor Greati](https://avatars.githubusercontent.com/greati?s=100)<br /><sub>Vitor Greati</sub>](https://github.com/greati) | [![Artur Curinga](https://avatars.githubusercontent.com/arturcuringa?s=100)<br /><sub>Artur Curinga</sub>](https://github.com/arturcuringa) | [![Ivanovitch Silva](https://avatars.githubusercontent.com/ivanovitchm?s=100)<br /><sub>Ivanovitch Silva</sub>](https://github.com/ivanovitchm) | [![Diego Silva](https://avatars.githubusercontent.com/ivanovitchm?s=100)<br /><sub>Diego Silva</sub>](https://github.com/ivanovitchm)| [![Aguinaldo Bezerra](https://avatars.githubusercontent.com/aguinaldoabbj?s=100)<br /><sub>Aguinaldo Bezerra</sub>](https://github.com/aguinaldoabbj)
+[![Vinicius Campos](https://avatars.githubusercontent.com/vinihcampos?s=100)<br /><sub>Vinicius Campos</sub>](https://github.com/vinihcampos) | [![Vitor Greati](https://avatars.githubusercontent.com/greati?s=100)<br /><sub>Vitor Greati</sub>](https://github.com/greati) | [![Artur Curinga](https://avatars.githubusercontent.com/arturcuringa?s=100)<br /><sub>Artur Curinga</sub>](https://github.com/arturcuringa) | [![Ivanovitch Silva](https://avatars.githubusercontent.com/ivanovitchm?s=100)<br /><sub>Ivanovitch Silva</sub>](https://github.com/ivanovitchm) | [![Diego Silva]()<br /><sub>Diego Silva</sub>](http://lattes.cnpq.br/1125827309642732)| [![Aguinaldo Bezerra](https://avatars.githubusercontent.com/aguinaldoabbj?s=100)<br /><sub>Aguinaldo Bezerra</sub>](https://github.com/aguinaldoabbj)
 ------------ | ------------- | ------------ | ------------ | ------------ | ------------
 
 
